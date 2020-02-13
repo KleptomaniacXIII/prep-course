@@ -51,3 +51,16 @@ C:\Users\dimit>ts-node -e "console.log('Hello World!')"
 Hello World!
 
 C:\Users\dimit>
+
+## Worked
+- by typing firstly "ts-node"
+
+- Then "console.log('Hello World!')"
+
+dimit@DESKTOP-6U24HEH MINGW64 ~/OneDrive/Documents/GitHub/prep-course (Notes)
+$ ts-node
+> console.log('Hello, World!')
+Hello, World!
+undefined
+
+But not sure if it's the right way to do. Found this approach on this website: https://riptutorial.com/typescript/example/28089/running-typescript-using-ts-node
